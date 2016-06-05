@@ -8,6 +8,9 @@
   }
   .menu > .menu-text > a {
     display: inLine;
-    padding: 0; 
+    padding: 0;
+  }
+  .active-link {
+    font-weight: bold; 
   }
 }
